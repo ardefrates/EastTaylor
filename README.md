@@ -1,4 +1,4 @@
-# Code for “Water limitation dampens the effect of warming on transpiration and recharge in a high-elevation catchment”
+# Code for “Warming exacerbates plant-driven subsurface storage depletion in a high elevation catchment”
 Note that CW3E forcing files and model output files are not included due to size. CW3E forcing files may be subset from the CONUS2 grid using code at EastTaylor_inputs/subset_pf_inputs.ipynb. Model output .npy files saved in analysis notebooks are available upon request.
 
 ## Summary of files
