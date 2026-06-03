@@ -1,5 +1,5 @@
 # Code for “Warming exacerbates plant-driven subsurface storage depletion in a high elevation catchment”
-Note that CW3E forcing files and model output files are not included due to size. CW3E forcing files may be subset from the CONUS2 grid using code at EastTaylor_inputs/subset_pf_inputs.ipynb. Model output .npy files saved in analysis notebooks are available upon request.
+Note that CW3E forcing files files are not included here due to size, but may be subset from the CONUS2 grid using code at EastTaylor_inputs/subset_pf_inputs.ipynb. 
 
 ## Summary of files
 #### subset_pf_inputs.ipynb
